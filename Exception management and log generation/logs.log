@@ -1,0 +1,4 @@
+2024-07-02 11:57:13,339 - foo - INFO - program started
+2024-07-02 11:57:13,340 - foo - INFO - trying to access the list
+2024-07-02 11:57:13,340 - foo - CRITICAL - an error has occurred: list index out of range
+2024-07-02 11:57:13,340 - foo - INFO - program ended - time: 0.001s
