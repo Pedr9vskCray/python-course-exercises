@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuites>
+    <testsuite name="pytest"
+               errors="0"
+               failures="0"
+               skipped="0"
+               tests="5"
+               time="0.034"
+               timestamp="2024-09-19T09:15:21.922003"
+               hostname="Pedr9vskCray">
+        <testcase classname="test_atividade2"
+                  name="test_abbreviate_name[pedro jos\xe9 dos prazeres lob\xe3o-abbreviated_name0]"
+                  time="0.001" />
+        <testcase classname="test_atividade2"
+                  name="test_abbreviate_name[maria joaquina silveira santos-abbreviated_name1]"
+                  time="0.001" />
+        <testcase classname="test_atividade2"
+                  name="test_abbreviate_name[ronaldo pedro do alecrim-abbreviated_name2]"
+                  time="0.001" />
+        <testcase classname="test_atividade2"
+                  name="test_abbreviate_name[jo\xe3o felipe nogueira machado-abbreviated_name3]"
+                  time="0.001" />
+        <testcase classname="test_atividade2"
+                  name="test_abbreviate_name[ademar ferreira dos anjos-abbreviated_name4]"
+                  time="0.001" />
+    </testsuite>
+</testsuites>
